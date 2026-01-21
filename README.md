@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yashwant</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-- 🔭 I’m currently working on **Cyber Trace**
 
 - 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **react**
+
+ - 🔭 Exploring new things
 
 - 📫 How to reach me **yashwanthalwai161@gmail.com**
 
