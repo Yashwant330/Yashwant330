@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/yashwant-halwai-123456/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/Yashwant330"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://leetcode.com/u/Yashwant_halwai/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
   <a href="https://discord.gg/yashwant30"><img src="https://img.shields.io/badge/DISCORD-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
   <a href="mailto:yashwanthalwai161@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
@@ -28,6 +29,10 @@ I enjoy building things that **solve real-world problems**, from frontend interf
 - **Languages:** JavaScript, TypeScript, Java, C++, Python
 - **Version Control:** Git, GitHub
 - **Other Tools:** Docker, Postman, Vercel
+
+## 🧩 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Yashwant_halwai?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/Yashwant_halwai/)
 
 ## 🏆 GitHub Stats
 
