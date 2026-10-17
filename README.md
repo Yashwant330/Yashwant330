@@ -10,7 +10,7 @@ Hi there 👋
 
 ## 🧑‍💻 About Me :
 
-I'm **Yashwant**, a passionate **MERN Stack developer** who loves turning ideas into functional, well-designed products.
+I'm **Yashwant**, a passionate **Full Stack developer** who loves turning ideas into functional, well-designed products.
 I enjoy building things that **solve real-world problems**, from frontend interfaces to backend logic.
 
 ## 💻 Full-Stack Developer | Tech Explorer
