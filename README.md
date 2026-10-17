@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/yashwant-halwai-123456/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/yashwant-halwai-6449512b2/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/Yashwant330"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://leetcode.com/u/Yashwant_halwai/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
   <a href="https://discord.gg/yashwant30"><img src="https://img.shields.io/badge/DISCORD-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
@@ -10,7 +10,7 @@ Hi there 👋
 
 ## 🧑‍💻 About Me :
 
-I'm **Yashwant**, a passionate **Full Stack developer** who loves turning ideas into functional, well-designed products.
+I'm **Yashwant**, a passionate **MERN Stack developer** who loves turning ideas into functional, well-designed products.
 I enjoy building things that **solve real-world problems**, from frontend interfaces to backend logic.
 
 ## 💻 Full-Stack Developer | Tech Explorer
@@ -41,5 +41,5 @@ I enjoy building things that **solve real-world problems**, from frontend interf
 ## 📫 Let's Connect
 
 I'm always open to discussions, collaborations, and learning from fellow developers.
-**LinkedIn:** [linkedin.com/in/yashwant-halwai-123456](https://www.linkedin.com/in/yashwant-halwai-123456/)
+**LinkedIn:** [linkedin.com/in/yashwant-halwai-6449512b2](https://www.linkedin.com/in/yashwant-halwai-6449512b2/)
 **Email:** [yashwanthalwai161@gmail.com](mailto:yashwanthalwai161@gmail.com)
